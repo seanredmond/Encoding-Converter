@@ -1,0 +1,9 @@
+lib/Unicode/Encoding/BetaCode.pm
+lib/Unicode/Encoding/Converter.pm
+lib/Unicode/Encoding/Font.pm
+lib/Unicode/Encoding/GreekKeys.pm
+lib/Unicode/Encoding/ISO_8859_5.pm
+lib/Unicode/Encoding/ISO_8859_7.pm
+lib/Unicode/Encoding/WinGreek.pm
+Makefile.PL
+MANIFEST
